@@ -1,0 +1,1 @@
+insert into Aliens values(-1,"Navin",35 );

@@ -1,0 +1,5 @@
+Assignment : Create a Spring Boot application to achieve the below
+1) Create a Web page
+  a) Web page upper part should collect alien data (aid,aname,age) and save it to database
+  b) Web page lower part should display all aliens from database.
+2) Controller should collect the alien data for every submit in Step 1a and store alien data in database
